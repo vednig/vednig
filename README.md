@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **RUG**
 
-- 🌱 I’m currently learning **Ktolin, Tensorflow , Android Development**
+- 🌱 I’m currently learning **Kotlin, Tensorflow , Android Development**
 
 - 💬 Ask me about **Python , C , C++ and Javascript**
 
