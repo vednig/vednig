@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vednig&label=Profile%20views&color=0e75b6&style=flat" alt="vednig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vednig" alt="vednig" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vednig&no-bg=true" alt="vednig" /></a> </p>
 
 - 🔭 I’m currently working on **RUG**
 
